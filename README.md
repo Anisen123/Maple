@@ -2,6 +2,10 @@
 The MAPLE framework is an innovative system for AI applications to (1) recommend various model compositions (2) recommend appropriate system configuration based on the application’s non-functional requirements (3) estimate the performance and cost of deployment on cloud for the chosen design.
 This repository contains the python code for the interface for creating and deploying an ML-pipeline.
 
+The paper regarding this tool was published at ACM ICPE'22 (International Conference on Performance Engineering '22) https://dl.acm.org/doi/10.1145/3491204.3527497
+
+<img width="800" alt="Screen Shot 2023-02-05 at 11 10 55 AM" src="https://user-images.githubusercontent.com/87408590/216830821-e455bdcf-8f85-45fc-8337-79010dccb844.png">
+
 ## Instructions
 1. Tested on Python 3.9
 2. Additional packages required: PyQt5, numpy, selenium, re, sqlite3. 
