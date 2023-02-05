@@ -1,0 +1,27 @@
+A
+Model,543.0,396.0,Tesseract#4,Tesseract,Serverless,Serverless,20,32,12,8.959999999999999,4.0,625.0,1000,Realtime,OCR,Tensorflow,AWS,0.05328921600000001,Serverless
+Shape,734.0,522.0,S,50,25,0,0,
+A
+Model,543.0,396.0,Tesseract#4,Tesseract,Serverless,Serverless,20,32,12,8.959999999999999,4.0,625.0,1000,Realtime,OCR,Tensorflow,AWS,0.05328921600000001,Serverless
+Shape,759.0,390.0,O,100,50,2.0,3.0,Test
+A
+Model,536.0,105.0,Tesseract#3,Tesseract,GPU,GPU,32,32,16,4.0,4.0,1000.0,1000.0,Realtime,OCR,Tensorflow,Not Selected,0.0,None
+Shape,756.0,107.0,O,100,50,2.0,3.0,Test
+A
+Shape,356.5,393.0,,20,20,11.0,10.0,Another
+Model,543.0,396.0,Tesseract#4,Tesseract,Serverless,Serverless,20,32,12,8.959999999999999,4.0,625.0,1000,Realtime,OCR,Tensorflow,AWS,0.05328921600000001,Serverless
+A
+Model,246.0,240.0,CRAFT#1,CRAFT,CPU,CPU,5,8,16,8,5.0,500.0,800.0,Batch,Image To Text,Pytorch,Not Selected,0.0,None
+Shape,356.5,393.0,,20,20,11.0,10.0,Another
+A
+Shape,360.0,122.5,,20,20,11.0,10.0,Another
+Model,536.0,105.0,Tesseract#3,Tesseract,GPU,GPU,32,32,16,4.0,4.0,1000.0,1000.0,Realtime,OCR,Tensorflow,Not Selected,0.0,None
+A
+Model,246.0,240.0,CRAFT#1,CRAFT,CPU,CPU,5,8,16,8,5.0,500.0,800.0,Batch,Image To Text,Pytorch,Not Selected,0.0,None
+Shape,360.0,122.5,,20,20,11.0,10.0,Another
+A
+Shape,22.0,238.0,I,100,50,8.0,3.0,ABJ
+Model,246.0,240.0,CRAFT#1,CRAFT,CPU,CPU,5,8,16,8,5.0,500.0,800.0,Batch,Image To Text,Pytorch,Not Selected,0.0,None
+Application,App1:,   #2: Tesseract,   #4: Tesseract
+Config,Server Config 1,20,12,
+Config,Server Config 2,4,2,SampleModel
