@@ -30,3 +30,4 @@ The paper regarding this tool was published at ACM ICPE'22 (International Confer
 17. Add application in saved application list by clicking corresponding button and filling pop-up form as required. Application attributes will show up on double clicking in application list.
 18. Add config in saved configs list by clicking corresponding button and filling pop-up form as required. Config attributes will show up on double clicking in config list.
 19. ObjectData.db is an sqlite3 database which contains two tables - 'models' and 'Transformers'.
+20. See a sample diagram by open the GUI and navigating to: Load Logic -> Sample_Saved_Diagram.csv
